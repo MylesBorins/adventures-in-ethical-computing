@@ -1,0 +1,66 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title Please wait... loading
+
+    link(rel='stylesheet', type='text/css', href='build/build.css')
+
+  style.
+    .hello {
+      background-image: url('images/hello-tharr.gif')
+    }
+    .gethere {
+      background-image: url('images/gethere.gif')
+    }
+    .package {
+      background-image: url('images/package.gif')
+    }
+    .universe {
+      background-image: url('images/universe.gif')
+    }
+    .babel {
+      background-image: url('images/babel.gif')
+    }
+    .loader {
+      background-image: url('images/loader.gif')
+    }
+    .ethics {
+      background-image: url('images/ethics.jpg')
+    }
+
+
+  body
+
+    article
+
+      section
+        img(src="images/splash.png")
+        h4
+          a(href='https://twitter.com/MylesBorins') @MylesBorins
+        p  BrooklynJS August 2018
+        
+      section(data-bespoke-backdrop='hello')
+        h1 This again?
+        
+      section
+        h1 My Name is Myles
+        img.headroom(src='images/me.jpg' alt='itsa me!' width='200px' height='200px')
+      
+      section
+        h3 I am gainfully employed by Google as a Developer Advocate
+        h4 Focusing on the Node.js ecosystem and GCP
+        
+        img(src='images/gcp.png' alt='Google Cloud Platform' style='background-color:white;')
+        
+        h5.headroom The opinions expressed in this talk are solely my own
+
+      section(data-bespoke-backdrop='ethics')
+
+      section
+        h2 Thank You
+        img.headroom(src='images/best-gif-evar.gif' alt='a surfing puppy' width='20%')
+        h4 @MylesBorins
+
+    script(src='build/build.js')

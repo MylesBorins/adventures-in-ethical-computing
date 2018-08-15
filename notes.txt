@@ -1,0 +1,68 @@
+Ethical Computing:
+
+* Philosophical Waning on Ethics
+
+* Intent vs Results
+  - https://twitter.com/sarahmei/status/887792727160537090
+
+* Unconcious Bias
+
+* Software has bias
+* Code has bias
+* Design hasbias
+* Algorithms have bias
+* the things we make suffer from our own biases
+
+* Responsible for your code: people can die
+  - history of airbags
+  - mostly calibrated for 1 body size.
+  - lack of diversity
+  - good intent bad result
+
+* Resonsible for your code: legally liable
+  - VW emissions
+    - people went to jail
+    - bad intent bad result
+  
+* Responsible for your code: democracy on hard mode
+  -cambridge analytics
+    - what are you trying to democratise
+    - replacing jobs
+    - this is a tough one
+
+* Responsible for you code: re-inforcing system opression
+  - photography -> face recognition software
+    - emulsions made for white skin
+      - https://www.youtube.com/watch?v=d16LNHIEJzs
+    - sensors are not as accurate with darker skin
+      - https://gizmodo.com/why-cant-this-soap-dispenser-identify-dark-skin-1797931773
+    - that thing of congress
+    - that talk I saw
+    - https://www.icrac.net/open-letter-to-amazon-against-police-and-government-use-of-rekognition/
+    - http://gendershades.org/
+    - https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28
+
+* Software is Political
+  - foss is political
+  - oss is political
+
+* Are Ethics Political?
+
+* Current initiatives to document ethics in the industry
+  - ACM
+    - https://www.acm.org/code-of-ethics
+  - Google AI principles
+    - https://ai.google/principles/
+
+* Homework
+  - Ask yourself:
+    - what am I making?
+    - who am I making it for
+
+* Neil Postmans’s 6 questions???
+  - What is the problem to which this technology is the solution?
+  - Whose problem is it?
+  - What new problems might be created by solving the original problem?
+  - Which people and what institutions will be most seriously harmed by this new technology?
+  - What changes in language are being forced by these new technologies?
+  - What sort of people and institutions gain special economic and political power from this new technology?
