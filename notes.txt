@@ -4,33 +4,36 @@ Ethical Computing:
 
 * Intent vs Results
   - https://twitter.com/sarahmei/status/887792727160537090
+  - not as simple as doing the right thing
 
 * Unconcious Bias
+  - some people believe that software is apolotical
+  - some people believe that algorithms cannot have bias
 
+* Products
 * Software has bias
 * Code has bias
-* Design hasbias
+* Design has bias
 * Algorithms have bias
 * the things we make suffer from our own biases
 
-* Responsible for your code: people can die
+* Responsible for your products: people can die
   - history of airbags
   - mostly calibrated for 1 body size.
   - lack of diversity
   - good intent bad result
 
-* Resonsible for your code: legally liable
+* Resonsible for your products: legally liable
   - VW emissions
     - people went to jail
-    - bad intent bad result
+  - bad intent bad result
   
-* Responsible for your code: democracy on hard mode
+* Responsible for your products: democracy on hard mode
   -cambridge analytics
     - what are you trying to democratise
-    - replacing jobs
     - this is a tough one
 
-* Responsible for you code: re-inforcing system opression
+* Responsible for you products: re-inforcing system opression
   - photography -> face recognition software
     - emulsions made for white skin
       - https://www.youtube.com/watch?v=d16LNHIEJzs
