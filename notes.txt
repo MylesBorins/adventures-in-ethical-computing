@@ -10,18 +10,27 @@ Ethical Computing:
   - some people believe that software is apolotical
   - some people believe that algorithms cannot have bias
 
-* Products
-* Software has bias
-* Code has bias
-* Design has bias
-* Algorithms have bias
-* the things we make suffer from our own biases
+* What has bias?
+  - Products
+  - Software has bias
+  - Code has bias
+  - Design has bias
+  - Algorithms have bias
+  - the things we make suffer from our own biases
 
-* Responsible for your products: people can die
+* Responsible for your products: people can die (not as compelling as originally thought)
   - history of airbags
   - mostly calibrated for 1 body size.
   - lack of diversity
   - good intent bad result
+  - since 1990
+  - Only 175 documented fatalities since 1990?
+    - Women + Children disproportionately affected... but not obvious just yet how bad this really is.
+    - https://web.archive.org/web/20080226234316/http://www.nsc.org/partners/status3.htm
+  - https://jamanetwork.com/journals/jama/article-abstract/418807
+  - https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/808470
+  - https://onlinelibrary.wiley.com/doi/abs/10.1111/0272-4332.00070
+  - http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
 
 * Resonsible for your products: legally liable
   - VW emissions
@@ -38,12 +47,12 @@ Ethical Computing:
     - emulsions made for white skin
       - https://www.youtube.com/watch?v=d16LNHIEJzs
     - sensors are not as accurate with darker skin
+      - US Patent 5428402
       - https://gizmodo.com/why-cant-this-soap-dispenser-identify-dark-skin-1797931773
-    - that thing of congress
-    - that talk I saw
     - https://www.icrac.net/open-letter-to-amazon-against-police-and-government-use-of-rekognition/
     - http://gendershades.org/
     - https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28
+    - https://patents.google.com/patent/US5428402
 
 * Software is Political
   - foss is political
@@ -56,6 +65,8 @@ Ethical Computing:
     - https://www.acm.org/code-of-ethics
   - Google AI principles
     - https://ai.google/principles/
+  - Algorithmic Justice league
+    - https://www.media.mit.edu/projects/algorithmic-justice-league/
 
 * Homework
   - Ask yourself:
@@ -65,7 +76,40 @@ Ethical Computing:
 * Neil Postmans’s 6 questions???
   - What is the problem to which this technology is the solution?
   - Whose problem is it?
-  - What new problems might be created by solving the original problem?
   - Which people and what institutions will be most seriously harmed by this new technology?
-  - What changes in language are being forced by these new technologies?
+  - What new problems might be created by solving the original problem?
   - What sort of people and institutions gain special economic and political power from this new technology?
+  - What changes in language are being forced by these new technologies?
+  
+* Who are we to make these decsions?
+
+* Doing right in the real world
+  - lots of different ideas of right + wrong
+  - not a lot of data
+  - not clear what the data is
+  
+Three layers of ethics
+
+* meta ethics
+  - What does it mean to call something right or wrong
+  - How do we decide
+* Normative ethics
+  - What standards or rules are the right one's to follow
+* Applied Ethics
+  - How do our existing rules apply to this situation/
+  
+* Some say we should judge by consequences
+* Some will say we have to follow rules or rights
+* Virtue ethics: what kind of human being we want to be?
+
+* Reflective Equilibrium
+  - balance between moral principal and your impression of specific cases of right / wrong
+   - it is your hyprocacy of wanting to end suffering while still eating a hamburger
+   - This struggle can be the spark to lasting change
+   
+* Ethics cannot be codified
+  - you cannot lower error rates and remove systemic opression
+  - The problems lie just outside your model
+* Saying no doesn't require a formula
+* You are far away from the people who we affect and we need to appraoch that with care
+* Setting examples for others

@@ -5,7 +5,8 @@
     "name": "Myles Borins <mylesborins@google.com>"
   },
   "dependencies": {
-    "bespoke-theme-nebula": "^1.0.1"
+    "bespoke-theme-nebula": "^1.0.1",
+    "marked": "^0.4.0"
   },
   "devDependencies": {
     "bespoke": "^1.0.0",
