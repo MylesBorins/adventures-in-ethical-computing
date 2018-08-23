@@ -113,3 +113,18 @@ Three layers of ethics
 * Saying no doesn't require a formula
 * You are far away from the people who we affect and we need to appraoch that with care
 * Setting examples for others
+
+---
+
+* students in cs take class in ethics
+* the ring for canadian engineers
+
+---
+
+TODO:
+
+* Expand on Meta vs Normative vs Applied Ethics
+* Air Bag Example
+* Analytics Example
+* VW Example
+* Read more on Reflective Equilibrium
