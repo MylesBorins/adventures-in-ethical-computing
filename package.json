@@ -44,7 +44,8 @@
   },
   "scripts": {
     "postinstall": "bower install",
-    "start": "gulp serve"
+    "start": "gulp serve",
+    "build": "gulp build"
   },
   "license": "Apache-2.0"
 }
