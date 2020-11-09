@@ -5,9 +5,6 @@
     "name": "Myles Borins <mylesborins@google.com>"
   },
   "dependencies": {
-    "bespoke-theme-nebula": "^1.0.1"
-  },
-  "devDependencies": {
     "bespoke": "^1.0.0",
     "bespoke-backdrop": "^1.0.0",
     "bespoke-bullets": "^1.0.0",
@@ -16,34 +13,29 @@
     "bespoke-keys": "^1.0.0",
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.0",
-    "bespoke-theme-cube": "^2.0.0",
+    "bespoke-theme-nebula": "^1.0.1",
     "bespoke-touch": "^1.0.0",
-    "bower": "^1.7.9",
-    "debowerify": "^1.5.0",
-    "del": "^1.1.1",
-    "gh-pages": "^2.0.1",
-    "gulp": "^3.8.1",
-    "gulp-autoprefixer": "^6.0.0",
-    "gulp-browserify": "^0.5.0",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-bro": "^2.0.0",
     "gulp-connect": "^5.6.1",
-    "gulp-csso": "^3.0.1",
-    "gulp-jade": "^1.1.0",
+    "gulp-csso": "^4.0.1",
     "gulp-plumber": "^1.2.0",
-    "gulp-rename": "^1.2.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^2.0.0",
     "gulp-stylus": "^2.7.0",
-    "gulp-uglify": "^0.3.1",
-    "gulp-util": "^3.0.8",
-    "insert-css": "^0.2.0",
+    "gulp-uglify": "^3.0.2",
+    "insert-css": "^2.0.0",
     "jstransformer-marked": "^1.0.3",
-    "marked": "^0.5.1",
-    "opn": "^5.4.0",
+    "marked": "^1.2.3",
+    "prismjs": "^1.21.0",
     "through": "^2.3.4"
   },
   "engines": {
-    "node": ">=8.11.0"
+    "node": ">=14.13.1"
   },
   "scripts": {
-    "postinstall": "bower install",
     "start": "gulp serve"
   },
   "license": "Apache-2.0"
