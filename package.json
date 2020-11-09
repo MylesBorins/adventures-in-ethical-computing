@@ -35,7 +35,7 @@
     "gulp-util": "^3.0.8",
     "insert-css": "^0.2.0",
     "jstransformer-marked": "^1.0.3",
-    "marked": "^0.5.1",
+    "marked": "^0.7.0",
     "opn": "^5.4.0",
     "through": "^2.3.4"
   },
