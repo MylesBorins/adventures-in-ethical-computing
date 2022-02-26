@@ -29,7 +29,7 @@
     "insert-css": "^2.0.0",
     "jstransformer-marked": "^1.0.3",
     "marked": "^4.0.10",
-    "prismjs": "^1.25.0",
+    "prismjs": "^1.27.0",
     "through": "^2.3.4"
   },
   "engines": {
